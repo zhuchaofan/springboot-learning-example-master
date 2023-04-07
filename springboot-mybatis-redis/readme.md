@@ -45,3 +45,5 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 redis的卸载命令：redis-server --service-uninstall
 
 =======================================================================================
+github上的token
+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
