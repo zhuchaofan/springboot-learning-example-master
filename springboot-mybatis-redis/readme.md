@@ -28,7 +28,7 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 其中redis相关的配置使用了默认的配置，本机已经安装了redis，安装目录D:\Redis-x64-3.2.100，redis服务安装参考了SPTools-master项目
 开发环境 win 配置：
 
-1.redis 启动
+1.redis 启动//
 
 打开一个命令窗口，进入到你解压的目录，输入命令：redis-server redis.windows.conf
 
