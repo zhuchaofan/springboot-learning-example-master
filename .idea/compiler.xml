@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-dubbo-client" />
+        <module name="springboot-mybatis-annotation" />
+        <module name="springboot-webflux-1-quickstart" />
+        <module name="springboot-mybatis-redis-annotation" />
+        <module name="chapter-5-spring-boot-paging-sorting" />
+        <module name="springboot-webflux-7-redis-cache" />
+        <module name="chapter-3-spring-boot-web" />
+        <module name="springboot-configuration" />
+        <module name="springboot-restful" />
+        <module name="springboot-webflux-3-mongodb" />
+        <module name="2-x-spring-boot-groovy" />
+        <module name="2-x-spring-boot-webflux-handling-errors" />
+        <module name="springboot-webflux-5-thymeleaf-mongodb" />
+        <module name="chapter-2-spring-boot-config" />
+        <module name="springboot-properties" />
+        <module name="springboot-webflux-2-restful" />
+        <module name="springboot-mybatis-mutil-datasource" />
+        <module name="springboot-hbase" />
+        <module name="springboot-mybatis-redis" />
+        <module name="spring-data-elasticsearch-query" />
+        <module name="springboot-webflux-4-thymeleaf" />
+        <module name="chapter-4-spring-boot-validating-form-input" />
+        <module name="springboot-validation-over-json" />
+        <module name="spring-data-elasticsearch-crud" />
+        <module name="springboot-freemarker" />
+        <module name="springboot-webflux-6-redis" />
+        <module name="springboot-dubbo-server" />
+        <module name="springboot-elasticsearch" />
+        <module name="chapter-1-spring-boot-quickstart" />
+        <module name="springboot-mybatis" />
+        <module name="chapter-4-spring-boot-web-thymeleaf" />
+        <module name="springboot-helloworld" />
+        <module name="chapter-5-spring-boot-data-jpa" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="2-x-spring-boot-groovy" options="-parameters" />
+      <module name="2-x-spring-boot-webflux-handling-errors" options="-parameters" />
+      <module name="chapter-1-spring-boot-quickstart" options="-parameters" />
+      <module name="chapter-2-spring-boot-config" options="-parameters" />
+      <module name="chapter-3-spring-boot-web" options="-parameters" />
+      <module name="chapter-4-spring-boot-validating-form-input" options="-parameters" />
+      <module name="chapter-4-spring-boot-web-thymeleaf" options="-parameters" />
+      <module name="chapter-5-spring-boot-data-jpa" options="-parameters" />
+      <module name="chapter-5-spring-boot-paging-sorting" options="-parameters" />
+      <module name="springboot-configuration" options="-parameters" />
+      <module name="springboot-dubbo-client" options="-parameters" />
+      <module name="springboot-dubbo-server" options="-parameters" />
+      <module name="springboot-freemarker" options="-parameters" />
+      <module name="springboot-helloworld" options="-parameters" />
+      <module name="springboot-mybatis" options="-parameters" />
+      <module name="springboot-mybatis-annotation" options="-parameters" />
+      <module name="springboot-mybatis-mutil-datasource" options="-parameters" />
+      <module name="springboot-mybatis-redis" options="-parameters" />
+      <module name="springboot-mybatis-redis-annotation" options="-parameters" />
+      <module name="springboot-properties" options="-parameters" />
+      <module name="springboot-restful" options="-parameters" />
+      <module name="springboot-validation-over-json" options="-parameters" />
+      <module name="springboot-webflux-1-quickstart" options="-parameters" />
+      <module name="springboot-webflux-2-restful" options="-parameters" />
+      <module name="springboot-webflux-3-mongodb" options="-parameters" />
+      <module name="springboot-webflux-4-thymeleaf" options="-parameters" />
+      <module name="springboot-webflux-5-thymeleaf-mongodb" options="-parameters" />
+      <module name="springboot-webflux-6-redis" options="-parameters" />
+      <module name="springboot-webflux-7-redis-cache" options="-parameters" />
+    </option>
+  </component>
+</project>
